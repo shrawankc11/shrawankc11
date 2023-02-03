@@ -2,7 +2,7 @@
 
  I mostly do backend stuff with Node JS and Typescript.
  
-[![My Skills](https://skills.thijs.gg/icons?i=typescript,javascript,nodejs,c,mongodb,postgres&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=typescript,javascript,python,nodejs,c,mongodb,postgres,git&theme=dark)](https://skills.thijs.gg)
 
 Learning more about the memory and OS. 
 
