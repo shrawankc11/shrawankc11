@@ -4,7 +4,7 @@
  Learning more about the memory and OS. 
  ### My stack?:
  
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,typescript,javascript,python,c,mongodb,postgres,docker,git&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,typescript,javascript,python,c,mongodb,postgres,mysql,docker,git&theme=dark)](https://skills.thijs.gg)
 
 
 
