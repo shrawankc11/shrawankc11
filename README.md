@@ -2,7 +2,7 @@
 
  I mostly do backend-web stuff with Node JS and Typescript.<br>
  Learning more about the memory and OS. 
- ### My stack?:
+ ### My stack/tools?:
  
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,laravel,typescript,javascript,golang,python,c,mongodb,postgres,mysql,redis,docker,git&theme=dark)](https://skills.thijs.gg)
 
