@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Shrawan KC.
 
- I mostly do backend-web stuff with Node JS and Typescript.<br>
+ I mostly do backend stuff. I like working with databases.<br>
  Learning more about the memory and OS. 
  ### My stack/tools?:
  
