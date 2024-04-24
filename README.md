@@ -2,11 +2,6 @@
 
  I mostly do backend stuff. I like working with databases.<br>
  Learning more about the memory and OS. 
- ### My stack/tools?:
- 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,laravel,typescript,javascript,golang,python,c,mongodb,postgres,mysql,redis,docker,git&theme=dark)](https://skills.thijs.gg)
-
-
 
 <!---
 shrawankc11/shrawankc11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
