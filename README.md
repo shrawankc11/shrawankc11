@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Shrawan KC.
 
- I am a programmer. I like to work with backend systems and databases.<br>
+ I am a software engineer. I like to work with backend systems and databases.<br>
 
  **Language and Skills:**
  
