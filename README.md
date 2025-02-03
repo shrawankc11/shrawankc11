@@ -4,7 +4,7 @@
 
  **Language and Skills:**
  
- [![My Skills](https://skillicons.dev/icons?i=ts,go,laravel,react,mysql,postgresql,redis,docker)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=ts,go,python,laravel,react,mysql,postgresql,redis,docker)](https://skillicons.dev)
  <hr>
  
 <!---
