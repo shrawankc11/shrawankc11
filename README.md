@@ -9,7 +9,8 @@
 - Reach out to me to collaborate on exciting projects. I am always happy to contribute.  
 - Email me at: kcshrawan879@gmail.com
 
-**My socials:** <br>
+**My socials:**
+
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://x.com/shrawankc_) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shrawankc)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/shrawankc_)
  
