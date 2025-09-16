@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://x.com/shrawankc_) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shrawankc)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/shrawankc_)
  
- **Language and Skills:**
+ **Skills and Tech:**
  
  [![My Skills](https://skillicons.dev/icons?i=ts,go,python,c,laravel,react,mysql,postgresql,redis,docker,express,nodejs,nestjs)](https://skillicons.dev)
  <hr>
